@@ -1,0 +1,14 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "keywords": ["netflix", "nflx"],
+    "logoFile": "netflix.png"
+  },
+  {
+    "id": "plus-pl",
+    "name": "Plus",
+    "keywords": ["plus", "plus gsm"],
+    "logoFile": "plus_pl.png"
+  }
+]
