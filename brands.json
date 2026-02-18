@@ -10,5 +10,11 @@
     "name": "Plus",
     "keywords": ["plus", "plus gsm"],
     "logoFile": "plus_pl.png"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "keywords": ["spotify"],
+    "logoFile": "spotify.jpeg"
   }
 ]
