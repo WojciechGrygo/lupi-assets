@@ -3,24 +3,28 @@
     "id": "netflix",
     "name": "Netflix",
     "keywords": ["netflix", "nflx"],
-    "logoFile": "netflix.jpeg"
+    "logoFile": "netflix.jpeg",
+    "domain": "netflix.com"
   },
   {
     "id": "plus-pl",
     "name": "Plus",
     "keywords": ["plus", "plus gsm"],
-    "logoFile": "plus_pl.png"
+    "logoFile": "plus_pl.png",
+    "domain": "plus.pl"
   },
   {
     "id": "spotify",
     "name": "Spotify",
     "keywords": ["spotify"],
-    "logoFile": "spotify.jpeg"
+    "logoFile": "spotify.jpeg",
+    "domain": "spotify.com"
   },
   {
     "id": "disney-plus",
     "name": "Disney +",
-    "keywords": ["disney", "disney+", "disney +"],
-    "logoFile": "disney_plus.jpeg"
+    "keywords": ["disney plus", "disney+", "disney +", "disney"],
+    "logoFile": "disney_plus.jpeg",
+    "domain": "disneyplus.com"
   }
 ]
