@@ -26,5 +26,12 @@
     "keywords": ["disney plus", "disney+", "disney +", "disney"],
     "logoFile": "disney_plus.jpeg",
     "domain": "disneyplus.com"
+  },
+  {
+    "id": "canal-plus",
+    "name": "Canal +",
+    "keywords": ["canal plus", "canal+", "canal +", "canal"],
+    "logoFile": "canal_plus.jpeg",
+    "domain": "canalplus.com"
   }
 ]
