@@ -33,5 +33,12 @@
     "keywords": ["canal plus", "canal+", "canal +", "canal"],
     "logoFile": "canal_plus.jpeg",
     "domain": "canalplus.com"
+  },
+  {
+    "id": "lupi",
+    "name": "Lupi",
+    "keywords": ["lupi"],
+    "logoFile": "lupi.jpeg",
+    "domain": "lupi.com"
   }
 ]
